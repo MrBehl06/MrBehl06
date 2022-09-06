@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sandeep Behl
 - 👀 I’m interested in Web developmeent | UI/UX 
-- 💞️ I’m looking to collaborate on Open source Projects
+- 💞️ I’m looking to collaborate on Web Development Projects
